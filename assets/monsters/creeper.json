@@ -1,0 +1,7 @@
+{
+	"name": "creeper",
+	"HP": 15,
+	"attk": 10,
+	"inte": 5,
+	"def": 5
+}

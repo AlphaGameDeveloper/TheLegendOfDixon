@@ -1,0 +1,7 @@
+{
+	"name": "zombie",
+	"HP": 25,
+	"attk": 3,
+	"inte": 3,
+	"def": 3
+}
